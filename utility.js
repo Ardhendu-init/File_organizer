@@ -1,10 +1,10 @@
 module.exports = {
-  media: [".mp4", "mkv", ".mp3"],
+  media: ["mp4", "mkv", "mp3"],
   archives: ["zip", "7z", "rar", "tar", "gz", "ar", "iso", "xz"],
   documents: [
     "docx",
     "doc",
-    ".pdf",
+    "pdf",
     "xlsx",
     "xls",
     "odt",
@@ -15,9 +15,9 @@ module.exports = {
     "txt",
     "ps",
     "tex",
-    ".pptx",
-    ".txt",
+    "pptx",
+    "txt",
   ],
   app: ["exe", "dmg", "pkg", "deb"],
-  photo: [".jpg", ".jpeg", ".png"],
+  photo: ["jpg", "jpeg", "png"],
 };
